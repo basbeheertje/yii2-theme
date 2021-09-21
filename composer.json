@@ -1,0 +1,36 @@
+{
+  "name": "basbeheertje/yii2-theme",
+  "description": "Yii2 Theme",
+  "minimum-stability": "dev",
+  "type": "yii2-extension",
+  "keywords": [
+    "yii",
+    "theme",
+    "module"
+  ],
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Bas van Beers"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/basbeheertje/yii2-theme/issues",
+    "source": "https://github.com/basbeheertje/yii2-theme"
+  },
+  "require": {
+    "php": ">=7.1",
+    "ext-json": "*",
+    "ext-curl": "*",
+    "ext-dom": "*",
+    "ext-SimpleXML": "*",
+    "ext-libxml": "*",
+    "yiisoft/yii2": "^2.0.6",
+    "yiisoft/yii2-bootstrap": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "basbeheertje\\yii2\\theme\\": "src/"
+    }
+  }
+}
