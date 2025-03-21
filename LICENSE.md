@@ -1,5 +1,5 @@
 /**
-* Copyright (C) ScoreTrace - All Rights Reserved
+* Copyright (C) De Code Kas - All Rights Reserved
 *
 * This source code is protected under international copyright law.  All rights
 * reserved and protected by the copyright holders.
